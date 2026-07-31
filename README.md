@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gadige Nikhil</h1>
-<h3 align="center">Computer Science student at IIIT Vadodara 🚀 Passionate about full-stack development (MERN), Java, and AI/ML. I love building real-world, problem-solving projects and learning by doing. Currently focused on DSA, system fundamentals, and scalable web apps.</h3>
+<h3 align="center">Computer Science student at IIIT Vadodara 🚀 Passionate about full-stack development , Java, and AI/ML. I love building real-world, problem-solving projects and learning by doing. Currently focused on DSA, system fundamentals, and scalable web apps.</h3>
 
 - 🌱 I’m currently learning **Web development and Data Science**
 
